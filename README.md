@@ -6,6 +6,6 @@ Used Seattle Traffic data to train the ML model
 
 [Accidents in Seattle](./seattle_map.html)
 
-![decision tree](./Sevrtree.png)
+## Decision Tree
 
-![correlation map](./test.png)
+![decision tree](./Sevrtree.png)
